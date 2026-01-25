@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/gh_prune/__init__.py
+src/gh_prune/cli.py
+src/gh_prune.egg-info/PKG-INFO
+src/gh_prune.egg-info/SOURCES.txt
+src/gh_prune.egg-info/dependency_links.txt
+src/gh_prune.egg-info/entry_points.txt
+src/gh_prune.egg-info/requires.txt
+src/gh_prune.egg-info/top_level.txt
+src/gh_prune/commands/docs.py
+src/gh_prune/commands/doctor.py
+src/gh_prune/commands/workflow_list.py
+src/gh_prune/commands/workflow_run_delete.py
+src/gh_prune/commands/workflow_run_list.py
+src/gh_prune/commands/workflow_run_prune.py
