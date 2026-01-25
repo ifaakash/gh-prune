@@ -1,3 +1,13 @@
+![License](https://img.shields.io/github/license/ifaakash/gh-prune)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/ifaakash/gh-prune)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+<!--![Latest Release](https://img.shields.io/badge/Release-1.0.4-orange)-->
+<!--![PyPi](https://img.shields.io/pypi/v/gh-prune)-->
+
 # gh-prune
 
 **gh-prune** is a command-line utility designed to help you manage and prune GitHub Actions workflow runs efficiently. It interacts with the GitHub CLI (`gh`) to list, inspect, and delete workflow runs, helping you maintain a clean repository and manage usage limits.
