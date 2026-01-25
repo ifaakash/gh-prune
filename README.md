@@ -5,7 +5,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ifaakash/gh-prune)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-<!--![Latest Release](https://img.shields.io/badge/Release-1.0.4-orange)-->
 <!--![PyPi](https://img.shields.io/pypi/v/gh-prune)-->
 
 # gh-prune
