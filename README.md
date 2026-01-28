@@ -7,19 +7,14 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 <!--![PyPi](https://img.shields.io/pypi/v/gh-prune)-->
 
-           __                                                                 
-          |  \                                                                
-  ______  | $$____            ______    ______   __    __  _______    ______  
- /      \ | $$    \  ______  /      \  /      \ |  \  |  \|       \  /      \ 
-|  $$$$$$\| $$$$$$$\|      \|  $$$$$$\|  $$$$$$\| $$  | $$| $$$$$$$\|  $$$$$$\
-| $$  | $$| $$  | $$ \$$$$$$| $$  | $$| $$   \$$| $$  | $$| $$  | $$| $$    $$
-| $$__| $$| $$  | $$        | $$__/ $$| $$      | $$__/ $$| $$  | $$| $$$$$$$$
- \$$    $$| $$  | $$        | $$    $$| $$       \$$    $$| $$  | $$ \$$     \
- _\$$$$$$$ \$$   \$$        | $$$$$$$  \$$        \$$$$$$  \$$   \$$  \$$$$$$$
-|  \__| $$                  | $$                                              
- \$$    $$                  | $$                                              
-  \$$$$$$                    \$$                                              
+                                       
+  __ _| |__           _ __  _ __ _   _ _ __   ___ 
+ / _` | '_ \   ____  | '_ \| '__| | | | '_ \ / _ \
+| (_| | | | | |____| | |_) | |  | |_| | | | |  __/
+ \__, |_| |_|        | .__/|_|   \__,_|_| |_|\___|
+ |___/               |_|                          
 
+       >> GitHub Workflow Cleaner <<
 
 **gh-prune** is a command-line utility designed to help you manage and prune GitHub Actions workflow runs efficiently. It interacts with the GitHub CLI (`gh`) to list, inspect, and delete workflow runs, helping you maintain a clean repository and manage usage limits.
 
